@@ -1,0 +1,28 @@
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\bin\Debug\net9.0\ListaMatriz.exe
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\bin\Debug\net9.0\ListaMatriz.deps.json
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\bin\Debug\net9.0\ListaMatriz.runtimeconfig.json
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\bin\Debug\net9.0\ListaMatriz.dll
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\bin\Debug\net9.0\ListaMatriz.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.dll
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\refint\ListaMatriz.dll
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ListaMatriz.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Área de Trabalho\Matrizes\ListaMatriz\obj\Debug\net9.0\ref\ListaMatriz.dll
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\bin\Debug\net9.0\ListaMatriz.exe
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\bin\Debug\net9.0\ListaMatriz.deps.json
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\bin\Debug\net9.0\ListaMatriz.runtimeconfig.json
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\bin\Debug\net9.0\ListaMatriz.dll
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\bin\Debug\net9.0\ListaMatriz.pdb
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.AssemblyInfoInputs.cache
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.AssemblyInfo.cs
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.dll
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\refint\ListaMatriz.dll
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.pdb
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ListaMatriz.genruntimeconfig.cache
+C:\Users\jefer\Downloads\Matrizes-main\Matrizes-main\ListaMatriz\obj\Debug\net9.0\ref\ListaMatriz.dll
