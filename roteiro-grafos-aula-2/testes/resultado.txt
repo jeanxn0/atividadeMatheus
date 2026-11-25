@@ -1,0 +1,20 @@
+Rotas ate o vertice inicial (Predecessores):
+Vertice: Poço Fundo - MG (CEP: 280) <- Predecessor: Machado - MG (CEP: 111)
+Vertice: São Paulo - SP (CEP: 616) <- Predecessor: Machado - MG (CEP: 111)
+Vertice: Belo Horizonte - MG (CEP: 888) <- Predecessor: Alfenas - MG (CEP: 222)
+Vertice: Andradas - MG (CEP: 555) <- Predecessor: Poços de Caldas - MG (CEP: 333)
+Vertice: Campinas - SP (CEP: 444) <- Predecessor: Machado - MG (CEP: 111)
+Vertice: Poços de Caldas - MG (CEP: 333) <- Predecessor: Machado - MG (CEP: 111)
+Vertice: Alfenas - MG (CEP: 222) <- Predecessor: Machado - MG (CEP: 111)
+Distancia ate Belo Horizonte - MG (CEP: 888): 558 km
+Vetores de distancias: {São Paulo - SP (CEP: 616)=380, Belo Horizonte - MG (CEP: 888)=558, Poço Fundo - MG (CEP: 280)=129, Andradas - MG (CEP: 555)=0, Campinas - SP (CEP: 444)=230, Poços de Caldas - MG (CEP: 333)=30, Alfenas - MG (CEP: 222)=148, Machado - MG (CEP: 111)=115}
+Vetores de predecessores: {São Paulo - SP (CEP: 616)=Campinas - SP (CEP: 444), Belo Horizonte - MG (CEP: 888)=Alfenas - MG (CEP: 222), Poço Fundo - MG (CEP: 280)=Machado - MG (CEP: 111), Andradas - MG (CEP: 555)=null, Campinas - SP (CEP: 444)=Poços de Caldas - MG (CEP: 333), Poços de Caldas - MG (CEP: 333)=Andradas - MG (CEP: 555), Alfenas - MG (CEP: 222)=Machado - MG (CEP: 111), Machado - MG (CEP: 111)=Poços de Caldas - MG (CEP: 333)}
+Distancia ate Machado - MG (CEP: 111): 0 km
+Vetores de distancias: {São Paulo - SP (CEP: 616)=2147483647, Belo Horizonte - MG (CEP: 888)=2147483647, Poço Fundo - MG (CEP: 280)=2147483647, Andradas - MG (CEP: 555)=2147483647, Campinas - SP (CEP: 444)=2147483647, Poços de Caldas - MG (CEP: 333)=2147483647, Alfenas - MG (CEP: 222)=2147483647, Machado - MG (CEP: 111)=0}
+Vetores de predecessores: {São Paulo - SP (CEP: 616)=null, Belo Horizonte - MG (CEP: 888)=null, Poço Fundo - MG (CEP: 280)=null, Andradas - MG (CEP: 555)=null, Campinas - SP (CEP: 444)=null, Poços de Caldas - MG (CEP: 333)=null, Alfenas - MG (CEP: 222)=null, Machado - MG (CEP: 111)=null}
+Nao existe caminho entre a origem e o destino.
+Distancia ate 2: 2 km
+Vetores de distancias: {1=0, 2=2, 3=1}
+Vetores de predecessores: {1=null, 2=3, 3=1}
+Nao existe caminho entre a origem e o destino.
+OK: 16 verificacoes passaram.
